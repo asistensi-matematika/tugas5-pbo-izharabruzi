@@ -134,6 +134,7 @@ hanya sebagai hiasan saja, jika bisa print-nya, ya bagus, jika tidak bisa digant
 
 ## Hasil
 buatlah sebuah demo video yang merekam semua case (menambah, mengedit, menghapus buku, serta seluruh error handlingnya (jika ada)), upload ke youtube dan sertakan linknya [disini](https://youtu.be/Hcwju417wLk)
+https://youtu.be/Hcwju417wLk
 ![](SERTAKAN_GAMBARNYA_DISINI)
 
 ## Upload
